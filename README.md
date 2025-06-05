@@ -175,5 +175,16 @@ npm start
 4. Push a la rama
 5. Crear un Pull Request
 
+## Vista previa
+
+![Pantalla principal](frontend/src/photos/Home.png)
+![Formulario](frontend/src/photos/formulario.png)
+![Perfil](frontend/src/photos/perfil.png)
+![Registro](frontend/src/photos/Registro.png)
+
+## 🎥 Demo en video
+
+[![Demo de la app](https://img.youtube.com/vi/4495vgXfo84/0.jpg)](https://youtu.be/4495vgXfo84)
+
 ## Licencia
 Este proyecto está bajo la Licencia MIT. 
