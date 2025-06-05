@@ -177,10 +177,10 @@ npm start
 
 ## Vista previa
 
-![Pantalla principal](frontend/src/photos/Home.png)
-![Formulario](frontend/src/photos/formulario.png)
-![Perfil](frontend/src/photos/perfil.png)
-![Registro](frontend/src/photos/Registro.png)
+![Pantalla principal](docs/Home.png)
+![Formulario](docs/formulario.png)
+![Perfil](docs/perfil.png)
+![Registro](docs/Registro.png)
 
 ## 🎥 Demo en video
 
